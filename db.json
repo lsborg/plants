@@ -1,7 +1,7 @@
 [
-   {"id": 1, "name": "Cebolinha", "sprouting": new Date(2020, 5, 1)
+   {"id": 1, "name": "Cebolinha", "sprouting": 1590980400000
 }, {
-  "id": 2, "name": "Coentro", "sprouting": new Date(2020, 5, 2)
+  "id": 2, "name": "Coentro", "sprouting": 1590980400000
 }, {
-  "id": 3, "name": "Manjericão", "sprouting": new Date(2020, 5, 3)
+  "id": 3, "name": "Manjericão", "sprouting": 1590980400000
 }];
